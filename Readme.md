@@ -6,6 +6,8 @@
 
 # Adding Dependencies
 - Rest Assured
+- Written first basic get method
+- added plugin create testng xml 
 - TestNG
 - Allure Report
 - Extent Report
