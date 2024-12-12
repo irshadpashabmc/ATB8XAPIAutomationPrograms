@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/MD ISHAQ/IdeaProjects/ATB8XAPIAutomationPrograms"><classes><class name="org.example.SampleAPITestProgram.RestfulBookerPingTest"><methods><include name="RestfulBookerPingTestCase"/></methods></class></classes></test></suite>
